@@ -1,3 +1,4 @@
+![Dashboard](Screenshot 2026-06-02 174911.png)
 # Superstore Sales Dashboard
 
 ## About
